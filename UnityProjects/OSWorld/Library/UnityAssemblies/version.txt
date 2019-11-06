@@ -63,13 +63,22 @@ C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll
 C:\Program Files\Unity\Editor\Data\Managed/UnityEditor.dll
 C:\Program Files\Unity\Editor\Data\Managed/Unity.Locator.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
-C:/Users/velden.bergonia/Documents/OSWorld/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll
-C:/Users/velden.bergonia/Documents/OSWorld/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll
-C:/Users/velden.bergonia/Documents/OSWorld/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll
+C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll
+C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:/Users/velden.bergonia/Documents/OSWorld/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+C:/Users/velden.bergonia/Documents/OSWorld/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
 C:\Program Files\Unity\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll
 C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\Microsoft.Win32.Primitives.dll
 C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.AppContext.dll
@@ -185,18 +194,6 @@ C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.W
 C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.dll
 C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Linq.dll
 C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll
-C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
-C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll
-C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
-C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll
-C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll
-C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
-C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
-C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll
-C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
-C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
-C:/Users/velden.bergonia/Documents/OSWorld/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
-C:/Users/velden.bergonia/Documents/OSWorld/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
 C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll
 C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll
 C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.dll
